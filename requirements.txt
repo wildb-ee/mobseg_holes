@@ -1,0 +1,12 @@
+opencv-python
+numpy
+matplotlib
+albumentations
+torch
+python-dotenv
+tqdm
+notebook
+torchvision
+
+#temp
+segmentation-models-pytorch
