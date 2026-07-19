@@ -5,5 +5,5 @@ __pycache__/
 .vscode/
 test.py
 test.ipynb
-seg_dataset/
-checkpoints/
+seg_dataset
+checkpoints
